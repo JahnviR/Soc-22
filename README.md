@@ -1,7 +1,7 @@
 # SOC : INTRODUCTION TO WEB3.0
 
 ## Checkpoint 1
-##Topics learned till now:
+###Topics learned till now:
 ###	Week 1
 *	Basics of HTML 5, CSS and JavaScript were learned in week 1 through YouTube video tutorials.
 ###	Week 2
